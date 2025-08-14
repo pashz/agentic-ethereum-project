@@ -12,3 +12,5 @@
 3. User selects and mints NFT
 4. Ownership recorded on-chain
 <!-- Updated: 2026-06-08 01:26 | Commit #4 -->
+
+<!-- Updated: 2026-06-08 01:26 | Commit #5 -->
