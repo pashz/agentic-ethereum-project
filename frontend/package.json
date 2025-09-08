@@ -1,0 +1,8 @@
+{
+  "name": "brandexia-frontend",
+  "dependencies": {
+    "next": "latest",
+    "web3": "^1.0.0"
+  }
+}
+<!-- Updated: 2026-06-08 01:26 | Commit #8 -->
